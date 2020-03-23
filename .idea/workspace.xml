@@ -1,14 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c3a779f-8fa6-46c4-a758-aa7537c0e4ac" name="Default Changelist" comment="" />
+    <list default="true" id="2c3a779f-8fa6-46c4-a758-aa7537c0e4ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AT_day3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kuzina Svetlana.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW2/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/CompareObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW2/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW2/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW3/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW3/EmployeeCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/EmployeeCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW3/IndividualWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/IndividualWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/test/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/test/resources/TestCase2.md5" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/test/resources/TestCase2.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/test/resources/TestCase3.md5" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/test/resources/TestCase3.md5" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MavenRunner">
-    <option name="jreName" value="1.8.0_241" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1ZXliIxUNQOvXb89dea2OPu4paP" />
   <component name="ProjectViewState">
@@ -18,14 +43,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\tersi\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,10 +63,36 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="123" y="110" key="SettingsEditor" timestamp="1584993698053">
+    <state x="79" y="178" key="#Project_Structure" timestamp="1585000672189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="123" y="110" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584993698053" />
+    <state x="79" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585000672189" />
+    <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585001279860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585001279860" />
+    <state x="349" y="277" key="FileChooserDialogImpl" timestamp="1585001294508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585001294508" />
+    <state x="123" y="110" key="SettingsEditor" timestamp="1585001750117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="123" y="110" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585001750117" />
+    <state x="26" y="231" key="new project wizard" timestamp="1585000588632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="26" y="231" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585000588632" />
   </component>
 </project>

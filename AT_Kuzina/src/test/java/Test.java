@@ -7,7 +7,6 @@ import HW3.Calculation;
 
 public class Test {
     public static void main(String[] args) {
-//        System.out.println("при значении зп ");
        double a = 12.1;
        Calculation.discount(a);
        System.out.println("(при значении salary " + a + ")");
@@ -22,8 +21,5 @@ public class Test {
         System.out.println();
         System.out.println("цена на билет " + Calculation.countTicketPrice(ticketPrice, discount));
         System.out.println("(при значениях цены " + ticketPrice + " и скидки " + discount + ")");
-
-
     }
-
 }
