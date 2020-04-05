@@ -4,15 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>example.com</groupId>
-    <artifactId>example</artifactId>
+    <groupId>new</groupId>
+    <artifactId>Kuzina Svetlana</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <!-- https://mvnrepository.com/artifact/org.testing/testng -->
-    <dependency>
-        <groupId>org.testing</groupId>
-        <artifactId>testng</artifactId>
-        <version>6.14.3</version>
-    </dependency>
-
+    
 </project>

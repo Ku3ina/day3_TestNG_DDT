@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c3a779f-8fa6-46c4-a758-aa7537c0e4ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AT_day3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kuzina Svetlana.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Kuzina Svetlana.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kuzina Svetlana.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW2/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/CompareObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW2/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW2/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW3/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW3/EmployeeCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/EmployeeCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/main/java/HW3/IndividualWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/IndividualWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/test/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/test/resources/TestCase2.md5" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/test/resources/TestCase2.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuzina Svetlana/src/test/resources/TestCase3.md5" beforeDir="false" afterPath="$PROJECT_DIR$/AT_Kuzina/src/test/resources/TestCase3.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/CompareObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW2/CompareObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW2/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW2/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW2/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW3/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/EmployeeCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW3/EmployeeCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/main/java/HW3/IndividualWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HW3/IndividualWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/test/resources/TestCase2.md5" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestCase2.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AT_Kuzina/src/test/resources/TestCase3.md5" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestCase3.md5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +29,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Users\tersi\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8.0_241" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -45,10 +52,41 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tersi\IdeaProjects\day3\AT_Kuzina" />
+      <recent name="C:\Users\tersi\IdeaProjects\day3\src\test" />
+      <recent name="C:\Users\tersi\IdeaProjects\day3\src\main\java" />
+      <recent name="C:\Users\tersi\IdeaProjects\day3\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Kuzina Svetlana" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\tersi\AppData\Roaming\Subversion</configuration>
@@ -82,14 +120,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585001279860" />
-    <state x="349" y="277" key="FileChooserDialogImpl" timestamp="1585001294508">
+    <state x="1055" y="227" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1586114656617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="349" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585001294508" />
-    <state x="123" y="110" key="SettingsEditor" timestamp="1585001750117">
+    <state x="1055" y="227" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586114656617" />
+    <state x="941" y="373" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586116357918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="123" y="110" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585001750117" />
+    <state x="941" y="373" width="407" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586116357918" />
+    <state x="729" y="108" key="CommitChangelistDialog2" timestamp="1586117564448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="108" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586117564448" />
+    <state x="349" y="277" key="FileChooserDialogImpl" timestamp="1586113889610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="349" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586113889610" />
+    <state width="1339" height="283" key="GridCell.Tab.0.bottom" timestamp="1586117578516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1339" height="283" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586117578516" />
+    <state width="1339" height="283" key="GridCell.Tab.0.center" timestamp="1586117578516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1339" height="283" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586117578516" />
+    <state width="1339" height="283" key="GridCell.Tab.0.left" timestamp="1586117578516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1339" height="283" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586117578516" />
+    <state width="1339" height="283" key="GridCell.Tab.0.right" timestamp="1586117578516">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1339" height="283" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586117578516" />
+    <state x="224" y="164" key="SettingsEditor" timestamp="1586117372560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="224" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586117372560" />
     <state x="26" y="231" key="new project wizard" timestamp="1585000588632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
