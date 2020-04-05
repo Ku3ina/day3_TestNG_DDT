@@ -7,6 +7,12 @@
     <groupId>new</groupId>
     <artifactId>Kuzina Svetlana</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.1.0</version>
+        </dependency>
+    </dependencies>
     
 </project>
