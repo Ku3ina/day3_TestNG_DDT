@@ -6,16 +6,25 @@ public class Calculation {
      * Чем больше зарплата - тем меньше скидка
      *
      * @param salary - зарплата
+     * @return
      */
-    public static void discount(double salary) {
+    public static double discount(double salary) {
+        double disc = 0;
         if (salary < 15.0) {
-            System.out.println("Скидка составляет - 15%");
+            //System.out.println("Скидка составляет - 15%");
+            disc = 0.15;
         } else if (salary < 12.0) {
-            System.out.println("Скидка составляет - 20%");
+            //System.out.println("Скидка составляет - 20%");
+            disc = 0.2;
         } else if (salary < 5.0) {
-            System.out.println("Скидка составляет - 30%");
+            //System.out.println("Скидка составляет - 30%");
+            disc = 0.3;
+        } else {
+            //System.out.println("Скидки не будет!");
+            disc = 0;
         }
-     //   System.out.println("Скидки не будет!");
+        return disc;
+        //вернуть переменную
         // Посчитайте скидку с разными параметрами. Выведите корректную скидку на экран.
     }
 

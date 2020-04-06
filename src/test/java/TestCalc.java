@@ -4,27 +4,21 @@ import org.testng.annotations.Test;
 
 
 public class TestCalc {
-    @Test(enabled = false)
+    @Test
     public void testCalc() throws Exception {
-        double a = 1.1, b = 6;
-        Calculation.discount(a);
-        Calculation.discount(b);
-      //  String a1 = Calculation.discount(a);
-      //  String b1 = Calculation.discount(b);
-        System.out.println("(при значении salary " + a + ")");
-        System.out.println("(при значении salary " + b + ")");
-
-        //Assert.assertEquals("Скидка составляет - 15%", Calculation.discount(a));
-        //Assert.assertEquals("Скидка составляет - 15%", Calculation.discount(b));
-
+        double salary1 = 16, salary2 = 6;
+        //Calculation.discount(salary1);
+        Calculation.discount(salary2);
+        //Assert.assertEquals( Calculation.discount(salary1), 0);
+        Assert.assertEquals( Calculation.discount(salary2), 0.2);
     }
 
-    @Test
+    @Test(enabled = false)
     public void testDisc() throws Exception {
         int ticketPrice = 1000;
-        double discount = 13;
+        double discount = 0.2;
         double c = Calculation.countTicketPrice(ticketPrice, discount);
-        Assert.assertEquals(870, c);
+        Assert.assertEquals(c, 800);
     }
 
 }
